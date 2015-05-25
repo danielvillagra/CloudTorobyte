@@ -55,6 +55,6 @@
         android:layout_alignLeft="@+id/password"
         android:layout_below="@+id/password"
         android:layout_marginTop="20dp"
-        android:text="Recordarme" />
+        android:text="Recordar" />
 
 </RelativeLayout>
